@@ -149,6 +149,8 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 ## PROGRAM:
 
 ## OUTPUT:
+<img width="1550" height="876" alt="Screenshot 2025-10-21 153626" src="https://github.com/user-attachments/assets/166718ef-1c68-4cdb-aa0a-91335145a942" />
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
