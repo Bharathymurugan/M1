@@ -1,4 +1,4 @@
-<img width="1550" height="876" alt="Screenshot 2025-10-21 153626" src="https://github.com/user-attachments/assets/4c30c00e-c37c-4c24-b84b-0ad89d557899" />
+
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a program to initialize the value as 20 & display the value.
